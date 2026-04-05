@@ -1,4 +1,5 @@
 # Inventory Inefficiencies Analysis using Advanced SQL
+This project analyzes inventory inefficiencies in a retail supply chain using **advanced SQL techniques**. It focuses on identifying key operational bottlenecks such as stockouts, overstocking, poor demand forecasting, and slow-moving inventory.
 
 The system is built using a **data warehouse approach (star schema)** and derives actionable insights through **analytical SQL queries and KPI dashboards**.
 
